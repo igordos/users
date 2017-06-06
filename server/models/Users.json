@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Igor",
+            "lastName": "Dostovalov",
+            "middleName": "Sergeevich",
+            "dateOfBirth": "1995-12-17T03:24:00",
+            "residentialAddress": "St. Petersburg"
+        },
+        {
+            "id": 2,
+            "firstName": "Ivan",
+            "lastName": "Ezhov",
+            "middleName": "Sergeevich",
+            "dateOfBirth": "1995-12-17T03:24:00",
+            "residentialAddress": "St. Petersburg"
+        }
+    ]
+}
